@@ -1,0 +1,14 @@
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\bin\Debug\Envio de Correos.exe.config
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\bin\Debug\Envio de Correos.exe
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\bin\Debug\Envio de Correos.pdb
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\bin\Debug\Envio de Correos.xml
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\obj\Debug\Envio_de_Correos.frmInicio.resources
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\obj\Debug\Envio_de_Correos.Resources.resources
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\obj\Debug\Envio de Correos.vbproj.GenerateResource.Cache
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\obj\Debug\Envio de Correos.exe
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\obj\Debug\Envio de Correos.xml
+C:\Users\Michael Vargas Loza\AppData\Local\Temporary Projects\Envio de Correos\obj\Debug\Envio de Correos.pdb
+C:\Users\Michael Vargas Loza\Desktop\VB\Envio de Correos\Envio de Correos\bin\Debug\Envio de Correos.exe.config
+C:\Users\Michael Vargas Loza\Desktop\VB\Envio de Correos\Envio de Correos\obj\Debug\Envio de Correos.exe
+C:\Users\Michael Vargas Loza\Desktop\VB\Envio de Correos\Envio de Correos\obj\Debug\Envio de Correos.xml
+C:\Users\Michael Vargas Loza\Desktop\VB\Envio de Correos\Envio de Correos\obj\Debug\Envio de Correos.pdb
